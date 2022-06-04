@@ -1,0 +1,20 @@
+{
+  "name": "angular-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for AngularJS Project",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "Pandika",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.8.3",
+    "jasmine-core": "^4.1.1",
+    "karma": "^6.3.20",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^5.0.1"
+  }
+}
